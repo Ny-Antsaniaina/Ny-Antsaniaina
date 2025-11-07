@@ -6,6 +6,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
 </p>
 
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ny-antsaniaina&label=Profile%20views&color=0e75b6&style=flat" alt="ny-antsaniaina" /> 
 </p>
@@ -21,6 +22,7 @@
 - ⚡ Fun fact: **I’m funny and cool 😎**
 
 ---
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -49,21 +51,23 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ny-antsaniaina&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ny-antsaniaina&show_icons=true&locale=en&layout=compact&include_all_commits=true" alt="Top Langs" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ny-antsaniaina&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ny-antsaniaina&show_icons=true&locale=en&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ny-antsaniaina" alt="Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ny-antsaniaina&include_private=true" alt="Streak Stats" />
 </p>
 
 ---
+
+### 🐍 Snake Animation 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ny-antsaniaina/ny-antsaniaina/output/snake.svg" alt="Snake animation" />
